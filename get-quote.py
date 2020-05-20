@@ -1,6 +1,9 @@
 def main():
   print("Keep it logically awesome.")
 
+  #this is put here for the push
+  
+
   #f = open("quotes.txt")
   #quotes = f.readlines()
   #f.close()
